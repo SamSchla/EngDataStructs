@@ -1,5 +1,5 @@
 # Engineering Data Structures
-Repository for Engineering Data Structures 2080C
+Presonal Repository for Engineering Data Structures 2080C
 
 Professor: Chuck Zimmer
 
