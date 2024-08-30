@@ -1,4 +1,4 @@
-# EngDataStructs
+# Engineering Data Structures
 Repository for Engineering Data Structures 2080C
 
 Student: Samuel Schlabach
