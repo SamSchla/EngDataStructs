@@ -1,0 +1,9 @@
+﻿  Lab6.cpp
+  Node.cpp
+  Node.hpp
+  StringBinaryTree.cpp
+  StringBinaryTree.hpp
+  Generating Code...
+x64\Debug\Node.obj : warning LNK4042: object specified more than once; extras ignored
+x64\Debug\StringBinaryTree.obj : warning LNK4042: object specified more than once; extras ignored
+  Lab6.vcxproj -> C:\Users\Schlabach\source\repos\Lab6\x64\Debug\Lab6.exe
